@@ -77,10 +77,10 @@ https://cdn.brickmmo.com/icons@1.0.0/videokit.png
 Common branding images from the [BrickMMO Branding Guidelines](https://branding.brickmmo.com).
 
 ```
-https://cdn.brickmmo.com/images@1.0.0/faker-logo-black-horizontal.png
-https://cdn.brickmmo.com/images@1.0.0/faker-logo-black.png
-https://cdn.brickmmo.com/images@1.0.0/faker-logo-coloured-horizontal.png
-https://cdn.brickmmo.com/images@1.0.0/faker-logo-coloured.png
+https://cdn.faker.ca/images@1.0.0/faker-logo-black-horizontal.png
+https://cdn.faker.ca/images@1.0.0/faker-logo-black.png
+https://cdn.faker.ca/images@1.0.0/faker-logo-coloured-horizontal.png
+https://cdn.faker.ca/images@1.0.0/faker-logo-coloured.png
 ```
 
 > Available Versions: 1.0.0  
