@@ -1,5 +1,3 @@
-# cdn
-
 <style>@import url("//cdn.brickmmo.com/readme@1.0.0/readme.css");</style>
 
 **Faker Developer Tools CDN is the recommended CDN for all shared Faker Developer Tools images, icons, CSS, and JavaScript files.**
